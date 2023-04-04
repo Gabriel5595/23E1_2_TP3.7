@@ -1,0 +1,13 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+
+.card {
+    text-align: center;
+    vertical-align: center;
+    border: solid black 2px;
+    height: 20px;
+    width: 100px;
+}
